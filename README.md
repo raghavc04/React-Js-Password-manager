@@ -8,6 +8,7 @@ A secure and user-friendly password manager built using React.js for the fronten
 - Encrypted password storage
 - Add, edit, and delete passwords
 - Search functionality for stored passwords
+ React.js (use client in place of frontend or backend server)
 
 ## Technologies Used
 - **Frontend:** React.js
