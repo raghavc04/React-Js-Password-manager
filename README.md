@@ -1,4 +1,4 @@
-# Password Manager - React.js
+# Password Manager - React.js (use client in place of frontend or backend server)
 
 ## Overview
 A secure and user-friendly password manager built using React.js for the frontend and Node.js with MongoDB for the backend. It allows users to store, retrieve, and manage their passwords securely.
